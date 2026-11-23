@@ -1,6 +1,6 @@
 # Blog pro
 
-My professional Blog 
+Professional Blog developped from scratch
 
 ---
 
